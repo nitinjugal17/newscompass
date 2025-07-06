@@ -1,0 +1,4 @@
+"id","name","email","password","role","avatarUrl","avatarAiHint"
+"user-001","Alice Wonderland","alice@example.com","passwordAlice","User","https://placehold.co/100x100.png","user avatar"
+"admin-001","Bob The Builder","bob@example.com","passwordBob","Admin","https://placehold.co/100x100.png","user avatar"
+"superadmin-001","Charlie Root","charlie@example.com","passwordCharlie","SuperAdmin","https://placehold.co/100x100.png","user avatar"
